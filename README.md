@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kabuki
-### As a Junior Frontend Developer, I am dedicated to crafting user-friendly and engaging web experiences. Currently, I am actively expanding my portfolio with diverse projects, demonstrating my proficiency in modern web technologies. I am always open to new opportunities and challenges where I can further hone my skills.
+### As a Junior Developer, I am dedicated to crafting user-friendly and engaging web experiences. Currently, I am actively expanding my portfolio with diverse projects, demonstrating my proficiency in modern web technologies. I am always open to new opportunities and challenges where I can further hone my skills.
 
 
 ## Portfolio projects:
