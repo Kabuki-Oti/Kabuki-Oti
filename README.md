@@ -3,7 +3,7 @@
 
 
 ## Portfolio projects:
-- 🌈 [Weather App](https://github.com/Kabuki-Oti/Weather-App) *in progress*
+- 🌈 [Weather App](https://github.com/Kabuki-Oti/Weather-App)
 - ⭐ [Motivation Station](https://github.com/Kabuki-Oti/Motivation-Station)
 - 📖 [Online Reader for The Great Gatsby](https://github.com/Kabuki-Oti/Online-Reader-for-The-Great-Gatsby)
 - 🏫 [University Website](https://github.com/Kabuki-Oti/University-Website)
