@@ -3,6 +3,7 @@
 
 
 ## Portfolio projects:
+- 🛍️ [Daria eCommerce Web Store](https://github.com/Kabuki-Oti/Daria-eCommerce-Web-Store)
 - 🌈 [Weather App](https://github.com/Kabuki-Oti/Weather-App)
 - ⭐ [Motivation Station](https://github.com/Kabuki-Oti/Motivation-Station)
 - 📖 [Online Reader for The Great Gatsby](https://github.com/Kabuki-Oti/Online-Reader-for-The-Great-Gatsby)
