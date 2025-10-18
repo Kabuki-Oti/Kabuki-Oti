@@ -1,5 +1,7 @@
 # Hi 👋, I'm Kabuki
-### As a Junior Developer, I am dedicated to crafting user-friendly and engaging web experiences. Currently, I am actively expanding my portfolio with diverse projects, demonstrating my proficiency in modern web technologies. I am always open to new opportunities and challenges where I can further hone my skills.
+### Technical Account Manager | API Integration & Documentation
+
+Focused on bridging business and engineering through scalable solutions. Experienced with Python, React, Node.js, Docker, and RESTful APIs. Passionate about building tools that improve visibility, automation, and customer experience.
 
 
 ## Portfolio projects:
