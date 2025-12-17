@@ -10,6 +10,7 @@ Focused on bridging business and engineering through scalable solutions. Experie
 - ⭐ [Motivation Station](https://github.com/Kabuki-Oti/Motivation-Station)
 - 📖 [Online Reader for The Great Gatsby](https://github.com/Kabuki-Oti/Online-Reader-for-The-Great-Gatsby)
 - 🏫 [University Website](https://github.com/Kabuki-Oti/University-Website)
+- 🌸 [Bloooom](https://github.com/Kabuki-Oti/Bloooom)
 
 
 ## Languages and Tools:
